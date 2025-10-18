@@ -2,6 +2,15 @@
 
 A React Native number puzzle game with beautiful animations, twinkling stars, and optimized performance for both web and mobile platforms.
 
+## 🎬 Gameplay Demo
+
+<video width="100%" controls>
+  <source src="./assets/Game_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Watch the complete gameplay demonstration showing all features and level progression*
+
 ## ✨ Features
 
 - **🎯 Number Matching Game**: Match numbers to complete levels
@@ -288,6 +297,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Screen Recording**: Shows core gameplay mechanics
 - **Level Progression**: Demonstrates all 3 levels
 - **Visual Effects**: Showcases animations and feedback
+
+#### 🎬 Gameplay Video
+<video width="100%" controls>
+  <source src="./assets/Game_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**Video Features Demonstrated:**
+- ✅ Number matching mechanics (equal numbers and sum to 10)
+- ✅ Visual feedback for valid/invalid matches
+- ✅ Grid system with 3-4 initial rows
+- ✅ Add row functionality
+- ✅ Level progression through all 3 levels
+- ✅ Twinkling stars and shooting star animations
+- ✅ Celebration effects and smooth transitions
+- ✅ 2-minute level completion timing
 
 ## 📞 Support
 
