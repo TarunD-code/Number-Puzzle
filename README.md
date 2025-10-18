@@ -6,7 +6,17 @@ A React Native number puzzle game with beautiful animations, twinkling stars, an
 
 ### 📱 Watch the Gameplay Video
 
-https://github.com/TarunD-code/Number-Puzzle/assets/Game_video.mp4
+**🎥 Video File Available:** `assets/Game_video.mp4` (64.5 MB)
+
+**📺 How to View the Video:**
+1. **Download the video file** from the repository
+2. **Open locally** on your device for full quality
+3. **Or view in GitHub** by navigating to the assets folder
+
+**🔗 Direct Access:**
+- **Repository Assets**: Navigate to `assets/Game_video.mp4` in the repository
+- **Download Link**: Right-click the video file → "Save link as"
+- **File Size**: 64.5 MB (high quality gameplay recording)
 
 > **📱 Video Features Demonstrated:**
 > - ✅ Number matching mechanics (equal numbers and sum to 10)
@@ -307,7 +317,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 #### 🎬 Gameplay Video
 
-**Direct Video Link:** https://github.com/TarunD-code/Number-Puzzle/assets/Game_video.mp4
+**Video File:** `assets/Game_video.mp4` (64.5 MB)
+**Format:** MP4 (high quality gameplay recording)
+**Access:** Download from repository assets folder
 
 **Video Features Demonstrated:**
 - ✅ Number matching mechanics (equal numbers and sum to 10)
