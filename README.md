@@ -4,12 +4,24 @@ A React Native number puzzle game with beautiful animations, twinkling stars, an
 
 ## 🎬 Gameplay Demo
 
-<video width="100%" controls>
-  <source src="./assets/Game_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### 📱 Watch the Gameplay Video
 
-*Watch the complete gameplay demonstration showing all features and level progression*
+**🔗 Direct Video Link:** [Game_video.mp4](https://github.com/TarunD-code/Number-Puzzle/assets/Game_video.mp4)
+
+**📺 Alternative Viewing:**
+- Click the video link above to watch in GitHub
+- Download the video file for offline viewing
+- The video demonstrates all core gameplay mechanics
+
+> **📱 Video Features Demonstrated:**
+> - ✅ Number matching mechanics (equal numbers and sum to 10)
+> - ✅ Visual feedback for valid/invalid matches  
+> - ✅ Grid system with 3-4 initial rows
+> - ✅ Add row functionality
+> - ✅ Level progression through all 3 levels
+> - ✅ Twinkling stars and shooting star animations
+> - ✅ Celebration effects and smooth transitions
+> - ✅ 2-minute level completion timing
 
 ## ✨ Features
 
@@ -299,10 +311,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Visual Effects**: Showcases animations and feedback
 
 #### 🎬 Gameplay Video
-<video width="100%" controls>
-  <source src="./assets/Game_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**Direct Video Link:** https://github.com/TarunD-code/Number-Puzzle/assets/Game_video.mp4
 
 **Video Features Demonstrated:**
 - ✅ Number matching mechanics (equal numbers and sum to 10)
